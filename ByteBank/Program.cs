@@ -47,7 +47,7 @@ namespace ByteBank
             roberta.Senha = "123";
 
             GerenteDeConta camila = new GerenteDeConta("326.985.628-89");
-            camila.Nome = "Marcos";
+            camila.Nome = "Camila";
             camila.Senha = "abc";
 
             ParceiroComercial parceiro = new ParceiroComercial();
